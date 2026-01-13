@@ -1,7 +1,3 @@
 ## Simone Wien, PhD Candidate
 
 Hello! I am a PhD candidate in Epidemiology at Emory University. My research leverages large, population-based administrative datasets, quasi-experimental methods, and social theory to address challenges that arise when evaluating the impact of policy on reproductive and maternal and child health outcomes. Outside of epidemiology I have a background in human geography and economics, with specific training in quasi-experimental methods, geospatial analyses, and administrative data management. I also have professional experience in the federal research-to-policy process.
-
-I'm currently looking for postdoctoral positions beginning as early as June 2026. I am open to relocating and have worked across multiple research areas including maternal and child health, substance use, HIV, health services, and outbreak response. 
-
-If you know of relevant opportunities, I would love to connect! For a copy of my CV or to get in touch, I can be reached via [swien@emory.edu](mailto:swien@emory.edu). A list of my publications can be found [here](https://scholar.google.com/citations?user=oKERVyIAAAAJ&hl=en&inst=15365353816232672843). 
